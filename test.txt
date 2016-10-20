@@ -1,0 +1,6 @@
+include '/vendor/autoload.php'
+
+
+
+$a = new \Controller\Controller;
+$a->version();
