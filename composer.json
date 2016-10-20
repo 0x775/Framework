@@ -1,0 +1,14 @@
+{
+    "name": "0x775/framework",
+    "description": "framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "inorz",
+            "email": "inorz@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
